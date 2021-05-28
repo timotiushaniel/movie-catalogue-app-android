@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BAPJ Movies 3</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="image_preview_darker">image_preview_darker</string>
+    <string name="movie">MOVIE</string>
+    <string name="tv_show">TV SHOW</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="genre">Genre</string>
+    <string name="title_activity_detail_course">Detail</string>
+    <string name="dicoding_logo">Dicoding Logo</string>
+    <string name="star">Star</string>
+    <string name="favorite_button">Favorite Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorite</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="empty">No Favorite Item</string>
+</resources>
