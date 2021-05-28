@@ -1,3 +1,7 @@
+**Submission for Belajar Android Jetpack Pro (Learn Android Jetpack Pro) course at Dicoding**
+
+
+
 SKENARIO UNIT TESTING (Menggunakan data lokal pada file DataDummy):
 1. MoviesViewModelTest:
     > Memuat Movies:
